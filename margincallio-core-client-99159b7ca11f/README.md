@@ -1,0 +1,1 @@
+TCP client used to send commands to CoreCX remotely

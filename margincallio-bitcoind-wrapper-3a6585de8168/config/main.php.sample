@@ -1,0 +1,23 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+return [
+    'requestSalt' => 'salt',
+    'bitcoind' => [
+        'login' => 'ZndhLvM9DFk90S',
+        'password' => 'dvCKpSKold000l',
+        'port' => 29723
+    ],
+    'redis' => [
+        'port' => '6379',
+    ],
+    'notify' => [
+        // Адрес, по которому уведомляется о поступлении средств
+        'received' => 'http://api.testdomain.com/service/bitcoin/received',
+        // Адрес, по которому уведомляется о выплате пользователям
+        'sent' => 'http://api.testdomain.com/service/bitcoin/sent
+        // Адрес, по которому уведомляется о новой транзакции
+        'transaction' => 'http://api.testdomain.com/service/bitcoin/transaction',
+    ],
+];

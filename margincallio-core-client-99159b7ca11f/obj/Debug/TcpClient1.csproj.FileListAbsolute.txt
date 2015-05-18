@@ -1,0 +1,13 @@
+C:\Users\varsize\Documents\RocketBTC Project\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\varsize\Documents\RocketBTC Project\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\varsize\Documents\RocketBTC Project\TcpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\varsize\Documents\RocketBTC Project\TcpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\varsize\Documents\RocketBTC Project\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\varsize\Documents\RocketBTC Project\TcpClient\obj\Debug\TcpClient.pdb
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\obj\Debug\TcpClient.pdb
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\varsize\Documents\SpaceBTC Project\TcpClient\obj\Debug\TcpClient1.csprojResolveAssemblyReference.cache
